@@ -1,0 +1,10 @@
+# Site settings
+title: Onboarding welcome to your accounts
+description: ...could definitely be useful one day
+baseurl: /welcome
+baseurl_web_host: http://code.praqma.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+exclude: ["README.md"]
