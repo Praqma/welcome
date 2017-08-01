@@ -25,7 +25,7 @@ layout: default
 
 You have a new account at Praqma! You can sign in to Praqma services at:
 
-[gmail.praqma.net](https://gmail.praqma.net){: target="blank"}
+[gmail.praqma.net](http://gmail.praqma.net){: target="blank"}
 
 Your login is <span class="code" id="login">xxx@praqma.net</span>. The _initial_ password is "<span class="code" id="passwd">firstnamelastname</span>". You will be required to change it on your first login.
 
