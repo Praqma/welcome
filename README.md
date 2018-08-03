@@ -1,4 +1,9 @@
+---
+maintainer: lakruzz
+---
+
 # welcome
+
 Welcome letter to newly onboarded
 
 1. Get the data you need - have the new employee fill in [this online form](https://docs.google.com/forms/d/1Br6SH3I-S2se0m9S6h073HFm6LQsZ0idOcWhTppECBk/edit) I've mane a bitly redirect that takes you to the same place: [bit.ly/praqma-onboarding](http://bit.ly/praqma-onboarding).
